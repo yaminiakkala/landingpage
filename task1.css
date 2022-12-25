@@ -1,0 +1,25 @@
+
+body{
+    background-color:rgb(183, 190, 188) ;
+}
+a{
+    
+    padding:5px;
+    color: rgb(239, 72, 34);
+    display: inline-flexbox;
+    text-decoration: solid;
+    font-size: 20px;
+    border-radius:5px;
+    border-color: rgb(239, 72, 34);
+}
+.container{
+    margin-top:40px;
+}
+h1{
+    font-size:40px;
+    color:rgb(239, 72, 34);
+}
+p{
+    font-size:20px;
+    color:rgb(239, 72, 34);
+}
